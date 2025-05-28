@@ -226,7 +226,12 @@ h1{
 }
 }
 
-
+@media (max-width: 400px) {
+    .container #child_1 input{
+        width: 100%;
+        margin: 0rem 3rem;
+    }
+}
 
 
 
